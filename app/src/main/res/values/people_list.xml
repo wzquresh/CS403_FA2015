@@ -17,6 +17,7 @@
         <item>Joshua Walters</item>     <!-- jmwalter -->
         <item>Nathan Whitfield</item>   <!-- ntwhitfi -->
         <item>Andrew York</item>        <!-- amyork -->
+        <item>Waqas Qureshi</item>        <!-- wzquresh -->
     </string-array>
 
     <!-- Child arrays for each parent list item
@@ -80,6 +81,10 @@
     </string-array>
 
     <string-array name="amyork">
+        <item>Basic TextView</item>
+    </string-array>
+
+    <string-array name="wzquresh">
         <item>Basic TextView</item>
     </string-array>
     <!--********************** Ignore below ********************************-->

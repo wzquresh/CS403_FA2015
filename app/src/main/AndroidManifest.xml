@@ -23,6 +23,11 @@
             android:label="@string/gpcorser">
         </activity>
 
+        <activity
+            android:name=".wzquresh"
+            android:label="@string/wzquresh">
+        </activity>
+
 
     </application>
 

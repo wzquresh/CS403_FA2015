@@ -158,7 +158,8 @@ public class ActivitySelector extends AppCompatActivity {
         mdroof(11),
         jmwalter(12),
         ntwhitfi(13),
-        amyork(14);
+        amyork(14),
+        wzquresh(15);
 
         private int intValue;
         private Username(int value) {
